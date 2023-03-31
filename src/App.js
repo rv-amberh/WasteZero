@@ -5,9 +5,9 @@ import SignIn from './pages/signin';
 
 function App() {
   return (
-   <Router> 
+   <Router basename={window.location.pathname || ''}> 
     <Routes>
-      <Route path="/WasteZero" element={<Home/>} exact/>
+      <Route path="/" element={<Home/>} exact/>
       <Route path="/sign-in" element={<SignIn/>} exact/>
       <Route path="/sign-in" element={<SignIn/>} exact/>
     </Routes>
