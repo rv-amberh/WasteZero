@@ -7,7 +7,7 @@ function App() {
   return (
    <Router> 
     <Routes>
-      <Route path="/" element={<Home/>} exact/>
+      <Route path="/WasteZero" element={<Home/>} exact/>
       <Route path="/sign-in" element={<SignIn/>} exact/>
       <Route path="/sign-in" element={<SignIn/>} exact/>
     </Routes>
