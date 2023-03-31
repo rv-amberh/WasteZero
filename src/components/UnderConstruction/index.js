@@ -8,7 +8,7 @@ const UnderConstruction = () => {
     <Title> Whoops...we're still working on this! </Title>
     <Subtitle> Our team can't wait to unveil our system, but good things take time. Check back in a few months for launch information.</Subtitle>
     <Logo src={logo} />
-    <a href='/'>
+    <a href='/WasteZero/'>
     <Return> Return Home </Return>
     </a>
     </TextContainer>
