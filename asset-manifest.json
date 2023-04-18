@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/WasteZero/static/css/main.d488e72a.css",
-    "main.js": "/WasteZero/static/js/main.5ae8f186.js",
+    "main.css": "/WasteZero/static/css/main.467e814e.css",
+    "main.js": "/WasteZero/static/js/main.753aab10.js",
     "static/media/sampleVideo.mp4": "/WasteZero/static/media/sampleVideo.9facffa16c1c426b3ed1.mp4",
     "static/media/wasteWhite.png": "/WasteZero/static/media/wasteWhite.46cefb8225824f346d99.png",
     "static/media/world-better.svg": "/WasteZero/static/media/world-better.b265a64122c0c3a5bbad8d2c7326639e.svg",
+    "static/media/1in4.svg": "/WasteZero/static/media/1in4.0141902cec3b1e69940f75bc70eeadfd.svg",
     "static/media/delivery.svg": "/WasteZero/static/media/delivery.9fa51eac01f3c45125cc0071b9c7d594.svg",
     "static/media/breakfast.svg": "/WasteZero/static/media/breakfast.a483e4995b20a08a8c4d59f588e5deb4.svg",
     "static/media/take-out-boxes.svg": "/WasteZero/static/media/take-out-boxes.0682d390834b7a1a53e995ef0e144e95.svg",
     "static/media/love.svg": "/WasteZero/static/media/love.fb5af1d8732f4e5bd6d2870f3c517f71.svg",
+    "static/media/greenhouse.svg": "/WasteZero/static/media/greenhouse.1ab37f8317eae0bcd80ff9feaba880bc.svg",
     "static/media/wasteGreen.png": "/WasteZero/static/media/wasteGreen.505c9fd02134aa75a24d.png",
     "static/media/sign-up.svg": "/WasteZero/static/media/sign-up.ad3d8daef90e584122c9db5185e84b41.svg",
     "index.html": "/WasteZero/index.html",
-    "main.d488e72a.css.map": "/WasteZero/static/css/main.d488e72a.css.map",
-    "main.5ae8f186.js.map": "/WasteZero/static/js/main.5ae8f186.js.map"
+    "main.467e814e.css.map": "/WasteZero/static/css/main.467e814e.css.map",
+    "main.753aab10.js.map": "/WasteZero/static/js/main.753aab10.js.map"
   },
   "entrypoints": [
-    "static/css/main.d488e72a.css",
-    "static/js/main.5ae8f186.js"
+    "static/css/main.467e814e.css",
+    "static/js/main.753aab10.js"
   ]
 }
