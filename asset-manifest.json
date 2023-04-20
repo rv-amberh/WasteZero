@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WasteZero/static/css/main.467e814e.css",
-    "main.js": "/WasteZero/static/js/main.6993fd88.js",
+    "main.js": "/WasteZero/static/js/main.3e4fd02c.js",
     "static/media/sampleVideo.mp4": "/WasteZero/static/media/sampleVideo.9facffa16c1c426b3ed1.mp4",
     "static/media/wasteWhite.png": "/WasteZero/static/media/wasteWhite.46cefb8225824f346d99.png",
     "static/media/world-better.svg": "/WasteZero/static/media/world-better.b265a64122c0c3a5bbad8d2c7326639e.svg",
@@ -15,10 +15,10 @@
     "static/media/sign-up.svg": "/WasteZero/static/media/sign-up.ad3d8daef90e584122c9db5185e84b41.svg",
     "index.html": "/WasteZero/index.html",
     "main.467e814e.css.map": "/WasteZero/static/css/main.467e814e.css.map",
-    "main.6993fd88.js.map": "/WasteZero/static/js/main.6993fd88.js.map"
+    "main.3e4fd02c.js.map": "/WasteZero/static/js/main.3e4fd02c.js.map"
   },
   "entrypoints": [
     "static/css/main.467e814e.css",
-    "static/js/main.6993fd88.js"
+    "static/js/main.3e4fd02c.js"
   ]
 }
